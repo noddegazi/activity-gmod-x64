@@ -1,4 +1,4 @@
-# Download latest dll [here](https://github.com/noddegazi/activity-gmod-x64/tags)
+# Download latest .dll [here](https://github.com/noddegazi/activity-gmod-x64/tags/v1.0.0)
 
 # activity-gmod-x64
 GMod module that allows to perform discord webhook things via Lua
