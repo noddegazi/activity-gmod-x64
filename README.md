@@ -3,7 +3,7 @@ GMod module that allows to perform discord webhook things via Lua
 > [!WARNING]
 > Chromium Framework x86-64 is necessary
 
-## To send message via hook you need to use this func
+## To send message via webhook you need to use this function
 
 ```lua
 MessagePush(string webhook_name, string msg, string webhook_url)
