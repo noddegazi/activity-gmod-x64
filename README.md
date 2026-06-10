@@ -3,7 +3,7 @@
 # activity-gmod-x64
 GMod module that allows to perform discord webhook things via Lua
 > [!WARNING]
-> Chromium Framework x86-64 is necessary
+> Chromium Framework x86-64 necessary
 
 ## To send message via webhook you need to use this function
 
