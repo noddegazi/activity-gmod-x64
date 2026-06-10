@@ -26,5 +26,7 @@ hook.Add("PlayerConnect", "SendConnect", CTrack)
 ```lua
 local url = "PLACE_URL_HERE"
 
+-- Or you can use ConVar as mentioned
+
 url = CreateConVar("activity_url", "", {FCVAR_ARCHIVE, FCVAR_NOTIFY, FCVAR_REPLICATED, FCVAR_CHEAT}, "Place webhook URL here")
 ```
