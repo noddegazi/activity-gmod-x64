@@ -8,6 +8,8 @@ GMod module that allows to perform discord webhook things via Lua
 ## To send message via webhook you need to use this function
 
 ```lua
+require "activity"
+
 MessagePush(string webhook_name, string msg, string webhook_url)
 ```
 
